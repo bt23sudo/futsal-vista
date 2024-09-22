@@ -54,7 +54,7 @@ const AboutUs = () => {
               <h4 className="text-xl font-semibold mb-2 text-center text-purple-400">Ahmed Rizwan</h4>
               <p className="text-sm text-center font-semibold">Lead Developer</p>
               <p className="text-sm mt-2 text-center">
-                John is the mastermind behind our website’s development, ensuring everything runs smoothly and efficiently.
+                Ahmed rizwan is the mastermind behind our website’s development, ensuring everything runs smoothly and efficiently.
               </p>
             </motion.div>
 

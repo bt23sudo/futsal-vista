@@ -5,6 +5,7 @@ import AboutUs from './Components/About';
 import Teams from './Components/Teams';
 import Contact from './Components/Contact';
 import Image from './Assets/Untitled_design__5_-removebg-preview (2).png';
+import './App.css'
 
 const App = () => {
   return (
